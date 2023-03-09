@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-**harry-rsyh/harry-rsyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<--**harry-rsyh/harry-rsyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+**Thank you for** ✨ _Visiting my github repository._ ✨
 
-Here are some ideas to get you started:
+About me:
 
 - 🔭 I’m currently PT. XSIS MITRA UTAMA
 - 🌱 I’m currently Springboot, React + Redux, AngularJS
