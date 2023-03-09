@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<-- **harry-rsyh/harry-rsyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!-- **harry-rsyh/harry-rsyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 **Thank you for** ✨ _Visiting my github repository._ ✨
 
 About me:
