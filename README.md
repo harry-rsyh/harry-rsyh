@@ -7,6 +7,6 @@ About me:
 
 - 🌱 I’m currently working with Springboot
 - 👯 I’m looking to collaborate on Spring Project
-- 📫 How to reach me: t.me/BangAry
+- 📫 How to reach me: :point_right: [my telegram](t.me/BangAry)
 - 😄 Pronouns: Indonesia, Passive In English
 - ⚡ Fun fact: Don't like cold, be in an air-conditioned room
